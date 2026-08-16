@@ -6,7 +6,7 @@ Repositório com as documentações produzidas na disciplina de **Programação 
 
 - [🐘 Instalação do Laravel](docs/instalacao-laravel.md)
 - [🎨 Criando uma View no Laravel e Trabalhando com Tailwind CSS](docs/views-laravel-tailwind.md)
-- [🚀 Criando um Projeto Spring Boot do Zero](docs/spring-boot-setup.md)
+- [🚀 Criando um Projeto Spring Boot do Zero](docs/spring-boot.md)
 
 ---
 
